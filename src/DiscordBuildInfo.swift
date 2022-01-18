@@ -1,6 +1,6 @@
 /*
  * Discord-Build-Info-Swift
- * Created by KaNguy - 02/27/2021
+ * Created by KiyonoKara - 02/27/2021
  */
 
 // Imports
